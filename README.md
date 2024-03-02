@@ -1,4 +1,3 @@
-Here is the complete code block for the `README.md` file for your Next.js application "Foodie Hub":
 
 ```markdown
 # Foodie Hub
