@@ -1,5 +1,4 @@
 
-```markdown
 # Foodie Hub
 
 Welcome to Foodie Hub, a vibrant community platform built with Next.js where culinary enthusiasts can share and discover myriad recipes from around the globe. Engage with other food lovers, share your favorite recipes, and explore new ones, all while connecting with a community that shares your passion for cooking and eating.
